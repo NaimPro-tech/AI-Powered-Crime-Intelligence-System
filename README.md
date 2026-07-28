@@ -70,6 +70,8 @@ Suitable for crime classification, forecasting, and crime analysis.
 
 ## Institutions: Dhaka University, Ahsanullah University of Science and Technology
 
+Note: Feature details included by NPro-Tech
+
 ## Crime_Hotspot_Project_For_Research
 
 ## Ethical Notice
