@@ -1,0 +1,6 @@
+incident_place,incident_weekday,part_of_the_day,total_crimes,total_murders,total_rapes,total_assaults,total_bodyfounds,total_kidnaps,total_robberys,latitude,longitude,temp_mode,season_mode,humidity_mean,visibility_mean,weather_code_mode,precip_mean,cloudcover_mean,heatindex_mean,household,male_population,female_population,total_population,gender_ration,household_size,density_kmsq,religious_institution,playground,park,police_station,cyber_cafe,school,college,cinema
+abhaynagar,friday,morning,1,0,1,0,0,0,0,23.01667,89.43333,32,rainy,69.0,10.0,386,5.3,45.0,38.0,62189,131846,130588,262434,101,4.2,1062,615,11,0,8,5,52,10,2
+abhaynagar,friday,night,1,0,1,0,0,0,0,23.01667,89.43333,27,winter,33.0,10.0,113,0.0,0.0,25.0,62189,131846,130588,262434,101,4.2,1062,615,11,0,8,5,52,10,2
+abhaynagar,saturday,night,5,2,0,0,3,0,0,23.01667,89.43333,30,rainy,64.4,10.0,116,0.12000000000000002,17.8,32.0,62189,131846,130588,262434,101,4.2,1062,615,11,0,8,5,52,10,2
+abhaynagar,sunday,morning,1,1,0,0,0,0,0,23.01667,89.43333,29,winter,49.0,10.0,116,0.0,24.0,29.0,62189,131846,130588,262434,101,4.2,1062,615,11,0,8,5,52,10,2
+abhaynagar,sunday,night,1,0,0,0,1,0,0,23.01667,89.43333,32,rainy,69.0,7.0,359,30.9,51.0,36.0,62189,131846,130588,262434,101,4.2,1062,615,11,0,8,5,52,10,2
