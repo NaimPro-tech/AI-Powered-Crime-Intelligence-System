@@ -1,24 +1,24 @@
 # Final CSV Structure
 
-Column - Purpose
-incident_place - location
-incident_weekday - Filter
-part_of_the_day - Filter
-latitude - Marker
-longitude - Marker
-crime_risk_score - Marker color/intensity
-risk_level - UI badge
-marker_radius - Circle size
-dominant_crime - Tooltip
-murder_risk - Details panel
-rape_risk - Details panel
-robbery_risk - Details panel
-kidnap_risk - Details panel
-assault_risk - Details panel
-bodyfound_risk - Details panel
-total_crimes - Summary
-total_murders - Summary
-total_rapes - Summary
-total_robberys - Summary
-total_kidnaps - Summary
-total_assaults - Summary
+- Column - Purpose
+- incident_place - location
+- incident_weekday - Filter
+- part_of_the_day - Filter
+- latitude - Marker
+- longitude - Marker
+- crime_risk_score - Marker color/intensity
+- risk_level - UI badge
+- marker_radius - Circle size
+- dominant_crime - Tooltip
+- murder_risk - Details panel
+- rape_risk - Details panel
+- robbery_risk - Details panel
+- kidnap_risk - Details panel
+- assault_risk - Details panel
+- bodyfound_risk - Details panel
+- total_crimes - Summary
+- total_murders - Summary
+- total_rapes - Summary
+- total_robberys - Summary
+- total_kidnaps - Summary
+- total_assaults - Summary
