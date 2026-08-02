@@ -63,33 +63,33 @@ Weight can be selected in three method
 We have to give score to every place by part of the day. In each part risk score will be change.
 //
 
-Feature - Aggregation
-Total Crime - count
-Murder - count
-Robbery - count
-Assault - count
-Kidnap - count
-Rape - count
-BodyFound - count
-Avg Temp - mean
-Max Temp - mean
-Min Temp - mean
-Humidity - mean
-Visibility - mean
-Cloud Cover - mean
-Heat Index - mean
-Precipitation - mean
-Weather Code - mode
-Population - max / first
-Density - max / first
-Literacy - max / first
-Household - max / first
-Police Station - max / first
-Park - max / first
-Playground - max / first
-School - max / first
-College - max / first
-Cinema - max / first
+- Feature - Aggregation
+- Total Crime - count
+- Murder - count
+- Robbery - count
+- Assault - count
+- Kidnap - count
+- Rape - count
+- BodyFound - count
+- Avg Temp - mean
+- Max Temp - mean
+- Min Temp - mean
+- Humidity - mean
+- Visibility - mean
+- Cloud Cover - mean
+- Heat Index - mean
+- Precipitation - mean
+- Weather Code - mode
+- Population - max / first
+- Density - max / first
+- Literacy - max / first
+- Household - max / first
+- Police Station - max / first
+- Park - max / first
+- Playground - max / first
+- School - max / first
+- College - max / first
+- Cinema - max / first
 
 ## broadcasting group information back to every row
 
